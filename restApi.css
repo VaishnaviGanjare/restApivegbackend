@@ -1,0 +1,11 @@
+#veg-table {
+    border-spacing: 10px; /* Space between cells */
+    border-collapse: separate; /* Ensure border-spacing is applied */
+}
+
+Apply padding to the table cells
+ #veg-table td {
+    padding: 10px; /* Space inside cells */
+    border: 1px solid #ddd;
+}  /*Optional: Add borders to cells for better visibility */
+ 
